@@ -27,6 +27,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day    | Topic                 | Status      |
 | ------ | --------------------- | ----------- |
 | Day 01 | Linux User Management | ✅ Completed |
+| Day 02 | Temporary User Account | ✅ Completed |
 
 ---
 
