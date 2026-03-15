@@ -29,6 +29,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 01 | Linux User Management | ✅ Completed |
 | Day 02 | Temporary User Account | ✅ Completed |
 | Day 03 | Disable Root SSH Login | ✅ Completed |
+| Day 04 | Bash Script Permissions | ✅ Completed |
 
 ---
 
