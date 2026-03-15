@@ -54,6 +54,30 @@ Meaning:
 
 ---
 
+Example used in this task:
+
+```bash
+chmod 755 /tmp/xfusioncorp.sh
+```
+
+Permission breakdown:
+
+| Value | Permission |
+|------|------|
+| 7 | read + write + execute |
+| 5 | read + execute |
+| 5 | read + execute |
+
+This results in:
+
+```
+rwxr-xr-x
+```
+
+Which allows all users to execute the script while restricting write access to the owner.
+
+---
+
 ## Why Execute Permission Matters
 
 Scripts must have execute permission in order to run.

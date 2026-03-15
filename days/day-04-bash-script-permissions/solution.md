@@ -10,32 +10,32 @@ ssh user@app-server2
 
 ## Step 2 – Grant Execute Permission
 
-Make the script executable for all users.
+Set execute permission so that all users can run the script.
 
 ```bash
-sudo chmod +x /tmp/xfusioncorp.sh
+sudo chmod 755 /tmp/xfusioncorp.sh
 ```
 
-This adds execute permission to:
+Explanation:
 
-* owner
-* group
-* others
+- `chmod` → change file permissions
+- `755` → sets permissions to `rwxr-xr-x`
+- owner → read, write, execute
+- group → read, execute
+- others → read, execute
 
 ---
 
 ## Step 3 – Verify Permissions
 
-Check the script permissions.
-
 ```bash
 ls -l /tmp/xfusioncorp.sh
 ```
 
-Example output:
+Expected output:
 
 ```
--rwxr-xr-x 1 root root 1024 Mar 15 10:20 /tmp/xfusioncorp.sh
+-rwxr-xr-x 1 root root ... /tmp/xfusioncorp.sh
 ```
 
 Explanation of permissions:
