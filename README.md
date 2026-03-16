@@ -30,6 +30,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 02 | Temporary User Account | ✅ Completed |
 | Day 03 | Disable Root SSH Login | ✅ Completed |
 | Day 04 | Bash Script Permissions | ✅ Completed |
+| Day 05 | SELinux Installation & Disable | ✅ Completed |
 
 ---
 
