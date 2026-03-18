@@ -32,6 +32,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 04 | Bash Script Permissions | ✅ Completed |
 | Day 05 | SELinux Installation & Disable | ✅ Completed |
 | Day 06 | Cron Job Setup | ✅ Completed |
+| Day 07 | Password-less SSH Setup | ✅ Completed |
 
 ---
 
