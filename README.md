@@ -33,6 +33,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 05 | SELinux Installation & Disable | ✅ Completed |
 | Day 06 | Cron Job Setup | ✅ Completed |
 | Day 07 | Password-less SSH Setup | ✅ Completed |
+| Day 08 | Install Ansible (pip3) | ✅ Completed |
 
 ---
 
