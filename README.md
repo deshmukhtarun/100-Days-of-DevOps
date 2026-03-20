@@ -34,6 +34,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 06 | Cron Job Setup | ✅ Completed |
 | Day 07 | Password-less SSH Setup | ✅ Completed |
 | Day 08 | Install Ansible (pip3) | ✅ Completed |
+| Day 09 | MariaDB Service Troubleshooting | ✅ Completed |
 
 ---
 
