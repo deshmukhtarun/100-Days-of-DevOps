@@ -35,6 +35,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 07 | Password-less SSH Setup | ✅ Completed |
 | Day 08 | Install Ansible (pip3) | ✅ Completed |
 | Day 09 | MariaDB Service Troubleshooting | ✅ Completed |
+| Day 10 | Backup Script Automation | ✅ Completed |
 
 ---
 
