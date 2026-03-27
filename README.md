@@ -37,7 +37,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 09 | MariaDB Service Troubleshooting | ✅ Completed |
 | Day 10 | Backup Script Automation | ✅ Completed |
 | Day 11 | Tomcat Deployment | ✅ Completed |
-
+| Day 12 | Apache Troubleshooting | ✅ Completed |
 ---
 
 # Repository Structure
