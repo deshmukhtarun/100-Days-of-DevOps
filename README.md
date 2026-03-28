@@ -38,6 +38,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 10 | Backup Script Automation | ✅ Completed |
 | Day 11 | Tomcat Deployment | ✅ Completed |
 | Day 12 | Apache Troubleshooting | ✅ Completed |
+| Day 13 | Secure Apache Port Using iptables | ✅ Completed |
 ---
 
 # Repository Structure
