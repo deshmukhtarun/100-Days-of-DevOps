@@ -41,6 +41,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 13 | Secure Apache Port Using iptables | ✅ Completed |
 | Day 14 | Apache Unavailability | ✅ Completed |
 | Day 15 | Nginx SSL Setup | ✅ Completed |
+| Day 16 | Nginx Load Balancer Configuration | ✅ Completed |
 ---
 
 # Repository Structure
