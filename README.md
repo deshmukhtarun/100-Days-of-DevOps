@@ -43,6 +43,7 @@ This repository acts as both a **learning journal** and a **DevOps portfolio**.
 | Day 15 | Nginx SSL Setup | ✅ Completed |
 | Day 16 | Nginx Load Balancer Configuration | ✅ Completed |
 | Day 17 | PostgreSQL Database & User Setup | ✅ Completed |
+| Day 18 | MariaDB Server Setup & Database Configuration | ✅ Completed |
 ---
 
 # Repository Structure
